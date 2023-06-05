@@ -1,5 +1,6 @@
 {
   "author": "Author Name",
-  "name": "Package Name",
-  "description": "Write a more detailed description of this Nibble."
+  "name": "Nibble Name",
+  "description": "Write a more detailed description of this Nibble.",
+  "files": ["nibble.py"]
 }
